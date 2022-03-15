@@ -1,6 +1,6 @@
 #### **Olá, meu nome é Marcelo Felix e vou usar essa página pra compartilhar meus estudos em ciência de dados**
 
-- *🔭 Agora estou trabalhando em um projeto de análise exploratória, qualquer coisa me grita*
+- *🔭 Agora estou trabalhando em um projeto de análise exploratória, qualquer coisa grita aí*
 <!--- *🌱 O foco dos estudos aqui é Análise e visualização de bases de dados reais.*-->
 
 

@@ -7,7 +7,8 @@
 <div align="left">
   <a href="https://github.com/rafaballerini">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felixmarcelo&show_icons=true&theme=radical&include_all_commits=false&count_private=true&hide=contribs"/>
-  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmarcelo&layout=compact&langs_count=2&theme=radical"/>-->
+  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmarcelo&layout=compact&langs_count=7&theme=radical"/>-->
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

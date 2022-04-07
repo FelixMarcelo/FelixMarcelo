@@ -1,9 +1,6 @@
 #### **Olá, meu nome é Marcelo Felix.** 
-**Recentemente resolvi usa o GitHub pra compartilhar meus estudos em ciência de dados e Machine Learning**
+**Recentemente resolvi usar o GitHub pra compartilhar meus estudos e trabalhos em ciência de dados e Machine Learning**
 #### Vou tentar ir aumentando aos poucos o nível dos projetos, avançando em técnicas de automação, manipulação e análises até chegar, finalmente e na prática, em aplicações com Aprendizado de Máquina. 
-
-- *🔭 Agora estou trabalhando em um projeto de análise exploratória.*
-<!--- *🌱 O foco dos estudos aqui é Análise e visualização de bases de dados reais.*-->
 
 
 <div align="center">

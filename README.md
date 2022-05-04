@@ -1,5 +1,5 @@
 #### **Olá, meu nome é Marcelo Felix.** 
-**Recentemente resolvi usar o GitHub pra compartilhar meus estudos e trabalhos como cientista de dados e desenvolvedor**
+**Recentemente resolvi usar o GitHub pra compartilhar meus estudos e trabalhos como cientista de dados e desenvolvedor.**
 #### Desce só um pouquinho e dá um olhada no portfólio que estou montando. Qualquer coisa é só chamar. 
 
 
